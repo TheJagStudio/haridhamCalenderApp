@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "acdb55a4-1ad7-4c85-b69c-d11f63b4eb4b"
+      }
+    },
+    "owner": "thejagstudio"
   }
 }
